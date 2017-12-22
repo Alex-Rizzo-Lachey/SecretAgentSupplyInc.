@@ -1,0 +1,25 @@
+/* universal styles */
+html {
+  font-size: 18px;
+  font-family: Helvetica;
+}
+
+#site-container {
+  width: 960px;
+}
+
+header {
+  display: inline-block;
+  background-color: black;
+}
+
+header img {
+  margin-left: 0.5rem;
+  margin-right: 1rem;
+  height: 1.5rem;
+  width: auto;
+}
+
+header h1 {
+  margin: 0.66rem 0;
+}
